@@ -24,13 +24,6 @@ namespace ConsoleApp
 
         }
 
-        public void ShowInfo()
-        {
-
-            Console.WriteLine("Gross Income as Part Time " + GrossIncome());
-
-
-            Console.WriteLine();
-        }
+        
     }
 }

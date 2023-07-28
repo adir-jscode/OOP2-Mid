@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Semester\\Object Oriented Programming 2 C#\\Mid Lab\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\adiri\\OneDrive\\Desktop\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "D:\\Semester\\Object Oriented Programming 2 C#\\Mid Lab\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\adiri\\OneDrive\\Desktop\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\adiri\\.nuget\\packages\\",
-      "outputPath": "D:\\Semester\\Object Oriented Programming 2 C#\\Mid Lab\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\adiri\\OneDrive\\Desktop\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

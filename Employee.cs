@@ -9,6 +9,8 @@ namespace ConsoleApp
     public abstract class Employee
     {
 
+
+        //Creating custom type for joining date
         public struct MidDate
         {
             public int Day { get; set; }
@@ -25,13 +27,7 @@ namespace ConsoleApp
             
         }
 
-        string id;
-        string name;
-        double salary;
-        double bonus;
-        double commission;
         
-
         public string ID { get; set; }
         public string Name { get; set; }
         public double Salary { get; set; }
